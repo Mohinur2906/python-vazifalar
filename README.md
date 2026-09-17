@@ -1,1 +1,1 @@
-# python-vazifalar
+bu yerda pythonga oid kodlar bor
